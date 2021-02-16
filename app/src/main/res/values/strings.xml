@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">2hw</string>
+    <string name="forgotPassword">Забыли пароль?</string>
+    <string name="btn">Войти</string>
+    <string name="changePsw">Нажмите сюда.</string>
+    <string name="inputPsw">Введите ваш пароль</string>
+    <string name="inputEmail">Введите электонную почту</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="text">Выполните вход\n или зарегистрируйтесь.</string>
+    <string name="text2">или зарегистрируйтесь.</string>
+    <string name="text1">Выподните вход</string>
+    <string name="mainText">Вход</string>
+</resources>
